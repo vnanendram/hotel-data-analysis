@@ -37,6 +37,21 @@ The project covers areas such as:
 - Data Analysis
 - Database Testing
 
+## My Contribution
+
+In addition to my role as Project Manager & Scrum Master, I actively contributed to the technical development of the project.
+
+My contributions included:
+
+- Writing and testing SQL queries
+- Working with joins, subqueries and database views
+- Contributing to the relational database design and normalisation
+- Supporting the development and testing of the SQLite database
+- Contributing to the project structure and Deepnote setup
+- Creating and maintaining parts of the project documentation and templates
+- Coordinating tasks, responsibilities and deadlines within the team
+- Monitoring project progress and maintaining the project planning
+
 ## Entity-Relationship Model
 
 The following ER model shows the structure and relationships of the database:
