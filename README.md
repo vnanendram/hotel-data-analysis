@@ -6,8 +6,7 @@ The project was completed as part of the module **Datenbasierte Unternehmensanwe
 
 ## Academic Result
 
-- **Group Project Grade:** 5.9 / 6.0
-- **Overall Module Grade:** 6.0 / 6.0
+- **Group Project Grade:** 6.0
 
 ## Project Overview
 
